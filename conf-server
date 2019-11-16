@@ -1,1 +1,3 @@
-conf-server.yml
+spring.application.name=spring-cloud-config-client
+spring.cloud.config.uri=http://localhost:8001
+erver.port=8002
